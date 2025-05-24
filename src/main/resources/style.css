@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: #dfdfdf;
+    -fx-font-size: 20px;
+    -fx-font-family: "Book Antiqua";
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-cursor: hand;
+}
